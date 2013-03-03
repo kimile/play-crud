@@ -1,0 +1,17 @@
+stores:
+    - !!models.Store
+        id: 1
+        name: "Celeirós"
+        city: "Braga"
+    - !!models.Store
+        id: 2
+        name: "Freião"
+        city: "Braga"
+    - !!models.Store
+        id: 3
+        name: "Norte Shopping"
+        city: "Matosinhos"
+    - !!models.Store
+        id: 4
+        name: "Estádio Dragão"
+        city: "Porto"
